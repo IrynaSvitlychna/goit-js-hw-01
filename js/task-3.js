@@ -1,6 +1,3 @@
-let content;
-let padding; 
-let border;
 
 function getElementWidth(content, padding, border) {
     const sizeContent = Number.parseInt(content);
